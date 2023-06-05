@@ -16,7 +16,7 @@ I'm a Junior front-end developer and back-end developer in C#, JavaScript, LUA. 
 [![](https://gtce.itsvg.in/api?username=chefrzexe&theme=vue-dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
