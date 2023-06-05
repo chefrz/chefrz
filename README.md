@@ -18,4 +18,4 @@ I'm a Junior front-end developer and back-end developer in C#, JavaScript, LUA. 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oun4ziwisy46pfdgzolxg4cd4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rz4never&icon=2&color=3)]
+[![](https://visitcount.itsvg.in/api?id=rz4never&icon=2&color=3)](https://visitcount.itsvg.in)
