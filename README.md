@@ -13,7 +13,7 @@ I'm a Junior front-end developer and back-end developer in C#, JavaScript, LUA. 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rz4never&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=chefrzexe)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=chefrzexe&theme=vue-dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
