@@ -15,7 +15,8 @@ I'm a front-end developer and back-end developer in C#, JavaScript, HTML, CSS, L
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chefrz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+[![](https://visitcount.itsvg.in/api?id=chefrz&icon=0&color=3)](https://visitcount.itsvg.in)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oun4ziwisy46pfdgzolxg4cd4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-[![](https://visitcount.itsvg.in/api?id=chefrz&icon=0&color=3)](https://visitcount.itsvg.in)
