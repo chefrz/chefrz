@@ -1,6 +1,5 @@
 # 💫 About Me:
 I'm a front-end developer and back-end developer in C#, JavaScript, HTML, CSS, LUA. I have been working about 3 years.
-[![](https://visitcount.itsvg.in/api?id=chefrz&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zertxMj7Yh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/furkannbilir) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/chefrzexe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chefrzexe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rz4store) 
@@ -16,5 +15,7 @@ I'm a front-end developer and back-end developer in C#, JavaScript, HTML, CSS, L
 ![](https://github-contributor-stats.vercel.app/api?username=chefrz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oun4ziwisy46pfdgzolxg4cd4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+![](https://komarev.com/ghpvc/?username=chefrz&color=green)
 
 
